@@ -1,3 +1,6 @@
+## 🎮 Games Collection in Python
+Uma coleção de jogos clássicos desenvolvidos em Python utilizando Pygame. Este repositório é perfeito para desenvolvedores que querem aprender sobre desenvolvimento de jogos, programação em Python ou simplesmente se divertir com alguns clássicos atemporais.
+
 ## 🕹️ Jogos Disponíveis
 
 - **Snake** - O clássico jogo da cobrinha que come comida e cresce
