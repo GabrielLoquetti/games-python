@@ -1,4 +1,4 @@
-## 🎮 Games Collection in Python
+## 🎮 Coleção de Jogos em Python
 Uma coleção de jogos clássicos desenvolvidos em Python utilizando Pygame. Este repositório é perfeito para desenvolvedores que querem aprender sobre desenvolvimento de jogos, programação em Python ou simplesmente se divertir com alguns clássicos atemporais.
 
 ## 🕹️ Jogos Disponíveis
